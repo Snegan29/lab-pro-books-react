@@ -1,0 +1,39 @@
+
+.header {
+  text-align: center;
+}
+
+.heading {
+  font-size: 2rem;
+}
+
+.button {
+  padding: 7px;
+  margin: 7px;
+  background-color: crimson;
+  color: white;
+  font-size: 1rem;
+}
+
+img {
+  height: 200px;
+  padding: 10px;
+}
+
+.blog{
+  display: flex;
+  align-items: center;
+}
+
+p{
+  margin: 20px;
+}
+
+h1 {
+  border-bottom: 1px double black;
+}
+
+.books {
+  padding: 20px;
+  border: 1px solid black;
+}
